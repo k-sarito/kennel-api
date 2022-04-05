@@ -1,0 +1,43 @@
+{
+    "animals": [
+        { "id": 1, "name": "Doodles", "breed": "Poodle", "customerId": 1},
+        { "id": 2, "name": "Parsley", "breed": "Great Dane", "customerId": 2 },
+        { "id": 3, "name": "Esme", "breed": "Pitbull", "customerId": 3 },
+        { "id": 4, "name": "Toodles", "breed": "Goldendoodle", "customerId": 4}
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Luke Skywalker",
+            "address": "976 Tatooine Dr."
+        },
+         {
+            "id": 2,
+            "name": "Padmé Amidala",
+            "address": "1211 Naboo Lane"
+        },
+        {
+            "id": 3,
+            "name": "Han Solo",
+            "address": "222 Coroscant Blvd"
+        },
+        {
+            "id": 4,
+            "name": "Snoop Dogg",
+            "address": "420 Ganja Street"
+        }
+    ],
+    "employees": [],
+    "locations": [
+        {
+            "id": 1,
+            "name": "Nashville North",
+            "address": "8422 Johnson Pike"
+        },
+        {
+            "id": 2,
+            "name": "Nashville South",
+            "address": "209 Emory Drive"
+        }
+    ]
+}
